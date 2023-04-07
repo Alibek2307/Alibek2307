@@ -1,0 +1,96 @@
+.logo1,.logo2,.logo3,.logo4,.logo5,.logo6, .logo7, body{
+    position: relative;
+}
+.logo2{
+    top: -270px;
+    left: 5px;
+}
+.logo1{
+    bottom: 10px;
+    right: 15px;
+}
+.logo3{
+    top: -539px;
+    left: 300px; 
+}
+      
+nav>a {
+    border: 10px solid rgb(253, 145, 22);
+    color: #000000;
+    position: relative;
+    left: 380px;
+    bottom: 700px;
+    margin: 30px;
+    padding: 15px;
+    background-color: hsl(36, 100%, 81%);
+    font-size: 40px; 
+    border-radius: 360px;
+
+}   
+
+
+h1{
+    font-size: 85px;
+    font-family: 'Fascinate Inline';
+    position: relative;
+    left: 140px;
+    bottom: 700px;
+    color: rgb(222, 113, 3);
+}
+
+
+header>p{
+    font-family: 'Holtwood One SC';
+    font-size: 55px;
+    font-weight: 900;
+    position:relative;
+    bottom: 810px;
+    left: 19px;
+    color: #F0FFFF;
+}
+
+body{ 
+    background-color: rgb(255, 243, 226);
+    
+}
+
+article>iframe{
+    position: relative;
+    left: 250px;
+    bottom: 600px;
+}
+
+.logo4{
+    right: 20px;
+    top: 300px
+}
+
+.logo5{
+    top:255px;
+    font-size: 10px;
+    left: -8px;
+}
+.logo6{
+    left: 120px;
+    bottom: -80px;
+}
+
+.logo7{
+    right: -670px;
+    bottom: 40px;
+}
+h3{
+    position: relative;
+    bottom: 750px;
+    left: 50px;
+}
+article1>h1{
+    top: -500px;
+    left: 250px;
+}
+li{
+    font-size: 38px;
+    font-weight: 700;
+    position: relative;
+    bottom: 400px;
+}
